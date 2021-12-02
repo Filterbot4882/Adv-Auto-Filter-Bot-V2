@@ -48,7 +48,6 @@ async def start(bot, update):
 
     buttons = [[
         InlineKeyboardButton('Channel🙂', url='https://t.me/filmzone0')
-    ],[
         InlineKeyboardButton('Group 🥰', url='https://t.me/filmzonegroups1')
     ],[
         InlineKeyboardButton('Admin ⚙', url='https://t.me/jasimmhd')
